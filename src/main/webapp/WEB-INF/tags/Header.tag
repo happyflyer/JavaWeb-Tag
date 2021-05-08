@@ -1,0 +1,10 @@
+<%@ tag description="Header 内容" language="java" pageEncoding="UTF-8" %>
+<%@ attribute name="title" %>
+<head>
+    <meta charset="utf-8">
+    <title>${title}</title>
+    <link rel="stylesheet" href="../bootstrap-4.4.1-dist/css/bootstrap.min.css">
+    <script src="../bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
+    <script src="../jquery-3.5.1/jquery-3.5.1.min.js"></script>
+    <script src="../popper-2.5.3/popper.min.js"></script>
+</head>
